@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React_Spotify_Clone/static/css/main.4a8b6ae5.chunk.css",
+    "main.js": "/React_Spotify_Clone/static/js/main.cdc9f12a.chunk.js",
+    "main.js.map": "/React_Spotify_Clone/static/js/main.cdc9f12a.chunk.js.map",
+    "runtime-main.js": "/React_Spotify_Clone/static/js/runtime-main.e10a83fe.js",
+    "runtime-main.js.map": "/React_Spotify_Clone/static/js/runtime-main.e10a83fe.js.map",
+    "static/js/2.209b4482.chunk.js": "/React_Spotify_Clone/static/js/2.209b4482.chunk.js",
+    "static/js/2.209b4482.chunk.js.map": "/React_Spotify_Clone/static/js/2.209b4482.chunk.js.map",
+    "index.html": "/React_Spotify_Clone/index.html",
+    "precache-manifest.367db438b19487ce068cd1a5ba0bc225.js": "/React_Spotify_Clone/precache-manifest.367db438b19487ce068cd1a5ba0bc225.js",
+    "service-worker.js": "/React_Spotify_Clone/service-worker.js",
+    "static/css/main.4a8b6ae5.chunk.css.map": "/React_Spotify_Clone/static/css/main.4a8b6ae5.chunk.css.map",
+    "static/js/2.209b4482.chunk.js.LICENSE.txt": "/React_Spotify_Clone/static/js/2.209b4482.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e10a83fe.js",
+    "static/js/2.209b4482.chunk.js",
+    "static/css/main.4a8b6ae5.chunk.css",
+    "static/js/main.cdc9f12a.chunk.js"
+  ]
+}
